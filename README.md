@@ -6,6 +6,6 @@ Analyzing data using cohort analysis is an effective method to gain insights int
 3. Customer Lifetime Value (CLTV): CLTV estimates the total revenue a customer is expected to generate throughout their relationship with your business. Analyzing CLTV by cohort helps to understand the long-term value of different customer segments. 
 
 Technologies Used:
-▪ Python
-▪ Pandas library
-▪ Matplotlib and Seaborn library
+- Python
+- Pandas library
+- Matplotlib and Seaborn library
